@@ -1,0 +1,1 @@
+a secret repo containing all the questions of the 42 piscine / exam rank 02 , to use , questions are inside the .php website file , while the answers are inside each of the c files with their corresponding names. :3
